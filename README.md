@@ -14,7 +14,7 @@ About main.py:
 6. In line number 5, we have port='COM_'. for getting the serial port number, goto device manager of your system > ports > check your arduino port number.
 
 
-![py](https://user-images.githubusercontent.com/101927825/173759396-3acc4995-b5dc-4b1f-94b7-b10b96be5f73.png)
+![experimetal_pic](https://github.com/Shahriar-Hossain-Opu/LED_control_using_Hand_Gesture_Opencv_Python/assets/70248764/35d783a9-6462-451e-a193-adbad38a4bf4)
 
 
 About LEDs_using_finger_count.ino:
@@ -38,8 +38,6 @@ circuit diagram:
 1. First of all Upload the LEDs_using_finger_count.ino program on to the arduino
 2. Next in python IDE, Run the main.py program
 3. Then check for the output
-
-![py3](https://user-images.githubusercontent.com/101927825/173783939-08312f2e-c324-426f-9da9-8a2938c5c804.png)
 
 
 
