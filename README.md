@@ -43,4 +43,4 @@ circuit diagram:
 
 OUTPUT:
 
-https://user-images.githubusercontent.com/101927825/173785829-30357f42-c405-4343-84e1-14d8d2d07455.mp4
+
